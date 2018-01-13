@@ -1,2 +1,2 @@
 # AIND
-Udacity Nanodegree Program
+Udacity Artificial Intelligence Nanodegree Program
